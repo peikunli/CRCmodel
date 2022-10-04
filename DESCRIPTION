@@ -1,0 +1,13 @@
+Package: CRCmodel
+Title: two corhots relative abundance data and the scripts of building randomforest model using these data
+Description: two corhots relative abundance data and the scripts of building randomforest model using these data.You can get origin data from r-package curatedMetagenomicData
+Version: 1.0.0
+Author: Peikun Li
+Maintainer: Peikun Li<lpk3488306165@gmail.com>
+URL: https://github.com/peikunli/CRCmodel.git
+biocViews:ExperimentData, ExperimentHub, Homo_sapiens_Data, MicrobiomeData, ReproducibleResearch
+Depends: ExperimentHub,curatedMetagenomicData
+Suggests: ExperimentHub (>= 0.99.6), knitr, BiocStyle
+License: MIT
+VignetteBuilder: knitr
+NeedsCompilation: no
