@@ -20,7 +20,7 @@ meta <- data.frame(
   TaxonomyId = 9606,
   Coordinate_1_based = NA,
   DataProvider = "curatedMetagenomicData",
-  Maintainer = "Bioconductor Package Maintainer <maintainer@bioconductor.org>",
+  Maintainer = "Peikun Li<lpk3488306165@gmail.com>",
   RDataClass = c( rep("SummarizedExperiment", 5)) ,
   DispatchClass = c(rep("Rda",5)),
   RDataPath = c("CRCmodel/2021-03-31.FengQ_2015.relative_abundance.Rda", 
